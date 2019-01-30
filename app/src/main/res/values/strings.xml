@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentosNoAndroid</string>
+    <string name="trocar_texto">Trocar texto</string>
+    <string name="fragmento_2">Fragmento 2</string>
+</resources>
